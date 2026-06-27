@@ -3,12 +3,12 @@
 
 ---
 
-## 🌎 About Me
+## 👋 About Me
 
 <table>
   <tr>
     <td>
-      👋 <b>Hi there!</b> I'm a Data Science undergraduate student at Universitas Sebelas Maret, deeply passionate about unlocking insights and building intelligent systems using <b>Machine Learning and AI</b>.
+      <b>Hi there!</b> I'm a Data Science undergraduate student at Universitas Sebelas Maret, deeply passionate about unlocking insights and building intelligent systems using <b>Machine Learning and AI</b>.
     </td>
   </tr>
 </table>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      🎨 <b>Creative Side:</b> Beyond training models, I keep my creative juices flowing through <b>UI/UX design, graphic design, and video editing</b>. Balancing logic, data, and user-centric aesthetics is my jam!
+      <b>Creative Side:</b> Beyond training models, I keep my creative juices flowing through <b>UI/UX design, graphic design, and video editing</b>. Balancing logic, data, and user-centric aesthetics is my jam!
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      💼 <b>Let's Collaborate:</b> I'm fully open for <b>commission work, internships, or exciting career opportunities</b>. If you have an interesting project, let's chat!
+      <b>Let's Collaborate:</b> I'm fully open for <b>commission work, internships, or exciting career opportunities</b>. If you have an interesting project, let's chat!
     </td>
   </tr>
 </table>
@@ -61,30 +61,22 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeddbaee&show_icons=true&theme=cyan" alt="Riza's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeddbaee&layout=compact&theme=cyan" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeddbaee&show_icons=true&theme=gotham" alt="Riza's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeddbaee&layout=compact&theme=gotham" alt="Top Langs" height="150" />
 </p>
 
 ---
 
 ## 📬 Get In Touch
 
-<table>
-  <tr>
-    <td>
-      <a href="https://instagram.com/rizazaidaan" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/muhammadrizazaidaan" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:muhamadrizazaidan@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://instagram.com/rizazaidaan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadrizazaidaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhamadrizazaidan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
