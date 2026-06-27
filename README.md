@@ -1,16 +1,21 @@
-## Hi there 👋
+# Halo, Saya Riza! 👋
 
-<!--
-**zeddbaee/zeddbaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tentang Saya
+- 🎓 Mahasiswa yang sedang fokus mendalami **Data Science**.
+- 🛠️ Saat ini sedang aktif belajar tentang **LLM/RAG**.
+- 💼 Terbuka untuk kolaborasi proyek atau kesempatan magang.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,figma,powerbi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeddbaee&show_icons=true&theme=gotham" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeddbaee&layout=compact&theme=gotham" alt="Top Langs" height="150" />
+</p>
+
+### 📬 Mari Terhubung!
+- 💼 LinkedIn: www.linkedin.com/in/muhammadrizazaidaan/
+- 📧 Email: muhammadrizazaidaan@gmail.com
